@@ -30,6 +30,7 @@ iOS Developer in Progress | Passionate about building apps that solve real probl
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white)
 
 ---
+### 📈 GitHub Stats
 
 ![Mirabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirabellachn&show_icons=true&theme=swift)
 
