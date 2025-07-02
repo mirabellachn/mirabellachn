@@ -10,7 +10,7 @@ iOS Developer in Progress | Passionate about building apps that solve real probl
 ### 🚧 Currently Working On
 - Building general-purpose iOS apps to improve my technical and design skills  
 - Exploring how to structure projects with **SwiftUI**, **MVVM**, and **Combine**  
-- Expanding my front-end skills with **ReactJS**, **HTML**, and **CSS**  
+- Expanding my front-end skills with **ReactJS**, **Javascript**, **HTML**, and **CSS**  
 - Actively documenting my learning journey through personal projects  
 
 ---
